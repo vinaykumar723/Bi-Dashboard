@@ -105,5 +105,5 @@ Demographic Targeting: Age-based analysis enables tailored campaigns for the mos
 6. Screen Shot
 
 This is how Dashboard looks like.
-
+https://github.com/vinaykumar723/Dashboard/blob/main/superstore.png
    
