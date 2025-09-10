@@ -101,3 +101,9 @@ Regional Analysis: Global distribution of sales supports targeted regional marke
 Profitability Check: Despite rising sales, monitoring cost vs. profit ensures long-term sustainability.
 
 Demographic Targeting: Age-based analysis enables tailored campaigns for the most active customer groups.
+
+6. Screen Shot
+
+This is how Dashboard looks like.
+
+   
