@@ -1,5 +1,5 @@
 # Dashboard
-
+This is how Dashboard looks like. https://github.com/vinaykumar723/Dashboard/blob/main/superstore.png
 1. Global Superstore
 
 📊 Global Superstore Dashboard: Sales, Profit & Customer Insights
@@ -102,8 +102,5 @@ Profitability Check: Despite rising sales, monitoring cost vs. profit ensures lo
 
 Demographic Targeting: Age-based analysis enables tailored campaigns for the most active customer groups.
 
-6. Screen Shot
 
-This is how Dashboard looks like.
-https://github.com/vinaykumar723/Dashboard/blob/main/superstore.png
    
