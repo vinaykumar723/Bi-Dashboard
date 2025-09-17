@@ -1,5 +1,5 @@
 # Dashboard
-This is how Dashboard looks like. 
+This is how Dashboard looks like. https://github.com/vinaykumar723/Bi-Dashboard/blob/main/superstore.png
 1. Global Superstore
 
 📊 Global Superstore Dashboard: Sales, Profit & Customer Insights
